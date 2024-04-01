@@ -1,2 +1,0 @@
-#HI
-import math
